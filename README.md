@@ -1,3 +1,3 @@
 # s_lua
 
-Install 'Corbel' font (copy from C:\WINDOWS\Fonts to C:\SUlKOTU1OQ==\fonts)
+Install 'Corbel' and 'Corbel bold' (corbel.ttf, corbelb.ttf) font (copy from C:\WINDOWS\Fonts to C:\{random chars folder}\fonts)
