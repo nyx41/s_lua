@@ -1,3 +1,5 @@
 # s_lua
 
-Install 'Corbel' and 'Corbel bold' (corbel.ttf, corbelb.ttf) font (copy from C:\WINDOWS\Fonts to C:\{random chars folder}\fonts)
+Install 'Corbel' font (copy from C:\WINDOWS\Fonts to C:\SUlKOTU1OQ==\fonts)
+
+![](https://github.com/ayaka83/s_lua/blob/main/NXoWlkgyO0.png)
