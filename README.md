@@ -20,8 +20,6 @@ Updated automatically, **do not rename the lua**
 - Evelynn
 - Graves
 - Elise
-- Graves
-
 
 # Instructions
 1. Install 'Corbel' and 'Corbel bold' fonts (corbel.ttf, corbelb.ttf) (copy from C:\WINDOWS\Fonts to C:\\{script folder}\fonts)
