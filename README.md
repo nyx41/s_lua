@@ -5,6 +5,8 @@ Updated automatically, **do not rename the lua**
 # Supported
 ## Midlane
 - Annie
+- Yasuo
+- Naafiri
 ## Toplane
 - Garen
 - Camille
@@ -13,10 +15,12 @@ Updated automatically, **do not rename the lua**
 ## Botlane
 - Ashe
 - Sivir
+- Vayne
 ## Jungle
 - Evelynn
 - Graves
 - Elise
+- Graves
 
 
 # Instructions
